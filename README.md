@@ -8,18 +8,17 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1424,50:0e7490,100:5eead4&height=230&section=header&text=Zonghao%20Ye&fontSize=62&fontColor=ffffff&fontAlignY=36&desc=叶宗豪%20·%20Felix%20Ye&descSize=20&descAlignY=58&animation=fadeIn" width="100%" alt="banner" />
 
-<a href="https://1zonghao.github.io/personal-web/">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=5EEAD4&center=true&vCenter=true&width=700&height=44&lines=从理解原理，到做出真正能运行的作品。;Automation+×+AI+×+Edge;在实践中学习，在实验中验证。;Build+·+Measure+·+Iterate" alt="typing" />
-</a>
+<p>
+  <strong>Automation · AI · Edge</strong><br/>
+  <sub>从理解原理，到做出真正能运行的作品。</sub>
+</p>
 
-<br/>
-
-<img src="https://img.shields.io/badge/📍_Hangzhou-0b1424?style=flat-square&labelColor=0b1424&color=0e7490" />
-<img src="https://img.shields.io/badge/🎓_浙江科技大学·自动化-0b1424?style=flat-square&labelColor=0b1424&color=0e7490" />
-<img src="https://img.shields.io/badge/🧪_智能控制与大数据实验室-0b1424?style=flat-square&labelColor=0b1424&color=0e7490" />
-<img src="https://img.shields.io/badge/ENFP-0b1424?style=flat-square&labelColor=0b1424&color=5eead4" />
-
-</div>
+<p>
+  <img src="https://img.shields.io/badge/杭州-Hangzhou-f0fdfa?style=flat-square&labelColor=f8fafc&color=0f766e" alt="Hangzhou" />
+  <img src="https://img.shields.io/badge/浙江科技大学-自动化-eff6ff?style=flat-square&labelColor=f8fafc&color=2563eb" alt="ZUST Automation" />
+  <img src="https://img.shields.io/badge/智能控制与大数据-实验室-fefce8?style=flat-square&labelColor=f8fafc&color=ca8a04" alt="Intelligent Control and Big Data Lab" />
+  <img src="https://img.shields.io/badge/ENFP-fff1f2?style=flat-square&labelColor=f8fafc&color=e11d48" alt="ENFP" />
+</p>
 
 <br/>
 
