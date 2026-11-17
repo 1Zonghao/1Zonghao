@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/智能控制与大数据-实验室-fefce8?style=flat-square&labelColor=f8fafc&color=ca8a04" alt="Intelligent Control and Big Data Lab" />
   <img src="https://img.shields.io/badge/ENFP-fff1f2?style=flat-square&labelColor=f8fafc&color=e11d48" alt="ENFP" />
 </p>
-
+</div>
 <br/>
 
 ## `~/whoami`
@@ -31,13 +31,12 @@ zonghao@hangzhou:~$ cat about.txt
   role      →  B.S. Student in Automation @ 浙江科技大学
   lab       →  Intelligent Control & Big Data Lab
   from      →  云南昭通        base → 浙江杭州
-  member    →  中国自动化学会预备会员 · 中国人工智能学会学生会员
   focus     →  模式识别 · 智能控制 · AI 工程
   research  →  浙江省“新苗人才计划”第一负责人
                国家级大创项目第二负责人
 
 zonghao@hangzhou:~$ echo $PRINCIPLE
-先调查，再下结论 · 抓住主要矛盾 · 让实践修正判断
+实事求是 · 抓住主要矛盾 · 由实践得出真理
 
 zonghao@hangzhou:~$ █
 ```
@@ -133,27 +132,6 @@ Git · Docker · Claude Code<br/>**已合并 PR** 👇
 <tr>
 <td width="50%" valign="top">
 
-#### 💞 AITI · AI 哄感人格测试
-`INTERACTIVE` · 移动端互动 · 在线演示
-
-12 个 AI 陪伴情境，4 个维度组合出 **16 种类型**，约 60–90 秒完成。
-<br/><sub>`Next.js` `交互设计`</sub>
-<br/>[**GitHub →**](https://github.com/1Zonghao/aiti-mobile-playtest) · [**Live Demo ↗**](https://1zonghao.github.io/aiti-mobile-playtest/)
-
-</td>
-<td width="50%" valign="top">
-
-#### 🛡 RelSafe Sim · AI 陪伴关系安全评测
-`AI RESEARCH` · Benchmark v0.1 研究预览
-
-用多轮合成对话测试奉承、现实接地、退出安全与身份连续性，并检查模拟用户与评估器带来的偏差。
-<br/><sub>`多智能体模拟` `评估器校准` `跨模型比较`</sub>
-<br/>[**GitHub →**](https://github.com/1Zonghao/AI-Companion-Relationship-Safety-Lab)
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
 
 #### 🚗 车辆识别与统计系统
 `VISION` · 机器视觉与数字图像处理课程作业 · `YOLOv8n` `OpenCV` `HSV`
@@ -184,12 +162,11 @@ Git · Docker · Claude Code<br/>**已合并 PR** 👇
 
 | 🏆 | 赛事 | 奖项 |
 |:--:|:--|:--|
-| 🥇 | 全国人工智能应用场景创新挑战赛 · 具身智能专项赛 | **特等奖** |
-| 🥇 | 2025 中国高校智能机器人创意大赛 | **全国一等奖** |
-| 🥈 | 全国大学生“启真问智”人工智能模型 & 智能体大赛 | 全国二等奖 |
-| 🥈 | 第 28 届中国机器人及人工智能大赛 | 全国二等奖 · 省级一等奖 |
-| 🥈 | 2025 iCAN 大学生创新创业大赛 AI 挑战赛 | 全国二等奖 |
-| 🥈 | 2025 TI 杯全国大学生电子设计竞赛 | 浙江赛区二等奖 |
+| 🥇 | 全国人工智能应用场景创新挑战赛 · 具身智能专项赛 <img src="https://img.shields.io/badge/中国人工智能学会-eff6ff?style=flat-square&labelColor=f8fafc&color=2563eb" alt="CAAI" />| **特等奖** · 第二作者|
+| 🥇 | 2025 中国高校智能机器人创意大赛 <img src="https://img.shields.io/badge/浙江大学-机器人研究院-eff6ff?style=flat-square&labelColor=f8fafc&color=2563eb" alt="ZJU" />| **全国一等奖** · 第一作者|
+| 🥈 | 全国大学生“启真问智”人工智能模型 & 智能体大赛  <img src="https://img.shields.io/badge/浙江大学-eff6ff?style=flat-square&labelColor=f8fafc&color=2563eb" alt="ZJU" /><img src="https://img.shields.io/badge/阿里云-fefce8?style=flat-square&labelColor=f8fafc&color=ca8a04" alt="Aliyun" />| 全国二等奖 · 第一作者|
+| 🥈 | 第 28 届中国机器人及人工智能大赛 | 全国二等奖 · 省级一等奖 · 第三作者|
+| 🥈 | 2025 TI 杯全国大学生电子设计竞赛 | 浙江赛区二等奖 · 第一作者|
 
 <sub>更多奖项与证书 → [荣誉墙](https://1zonghao.github.io/personal-web/honors.html)</sub>
 
@@ -224,22 +201,7 @@ Git · Docker · Claude Code<br/>**已合并 PR** 👇
 <img src="https://img.shields.io/badge/🛶_龙舟与皮划艇-0b1424?style=for-the-badge&labelColor=0b1424&color=0e7490" />
 <img src="https://img.shields.io/badge/📕_历史与人文-0b1424?style=for-the-badge&labelColor=0b1424&color=0e7490" />
 
-<sub>2025 年校篮球锦标赛季军 · 希望把控制系统中的经验，带到能感知、反馈、行动的设备上。</sub>
-
-</div>
-
-<br/>
-
-## ◈ Activity
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=1Zonghao&show_icons=true&hide_border=true&bg_color=0b1424&title_color=5eead4&icon_color=38bdf8&text_color=cbd5e1&ring_color=5eead4&rank_icon=github" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1Zonghao&layout=compact&hide_border=true&bg_color=0b1424&title_color=5eead4&text_color=cbd5e1&langs_count=6" />
-
-<br/>
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=1Zonghao&bg_color=0b1424&color=5eead4&line=0e7490&point=ffffff&area=true&area_color=0e7490&hide_border=true" />
+<sub>2025 年校篮球锦标赛季军 · 2025年校运会男子200m单人皮划艇第八名 · 2026年校运会200m龙舟团体第四名</sub>
 
 </div>
 
