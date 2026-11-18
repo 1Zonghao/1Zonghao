@@ -18,6 +18,8 @@
   <img src="https://img.shields.io/badge/浙江科技大学-自动化-eff6ff?style=flat-square&labelColor=f8fafc&color=2563eb" alt="ZUST Automation" />
   <img src="https://img.shields.io/badge/智能控制与大数据-实验室-fefce8?style=flat-square&labelColor=f8fafc&color=ca8a04" alt="Intelligent Control and Big Data Lab" />
   <img src="https://img.shields.io/badge/ENFP-fff1f2?style=flat-square&labelColor=f8fafc&color=e11d48" alt="ENFP" />
+
+
 </p>
 </div>
 <br/>
@@ -111,7 +113,7 @@ Git · Docker · Claude Code<br/>**已合并 PR** 👇
 <td width="50%" valign="top">
 
 #### 🧭 思源 · 苏格拉底式思维训练助手
-`AI SYSTEM` · 启真问智大赛
+`AI SYSTEM` · 启真问智大赛 <img src="https://img.shields.io/badge/浙江大学-eff6ff?style=flat-square&labelColor=f8fafc&color=2563eb" alt="ZJU" />
 
 通过多轮提问帮助用户梳理观点，结合逻辑检查、思维简报与思维导图。
 <br/><sub>`Qwen-Max` `Flask` `ECharts` `SSE`</sub>
@@ -148,9 +150,9 @@ Git · Docker · Claude Code<br/>**已合并 PR** 👇
 
 <div align="center">
 
-[![PR](https://img.shields.io/badge/MERGED-open--notebook%20%23619-5eead4?style=for-the-badge&labelColor=0b1424)](https://github.com/lfnovo/open-notebook/pull/619)
+[![PR](https://img.shields.io/badge/MERGED-open--notebook%20%23619-5eead4?style=for-the-badge&labelColor=0b1424)]  (https://github.com/lfnovo/open-notebook/pull/619)[![Stargazers](https://img.shields.io/github/stars/lfnovo/open-notebook.svg?style=for-the-badge)](https://github.com/lfnovo/open-notebook)
 
-**CJK 文本排版修复** — 从使用开源工具，到提交第一份被合并的修复。
+**CJK 文本排版修复** ⭐— 从使用开源工具，到提交第一份被合并的修复。
 
 </div>
 
@@ -201,7 +203,6 @@ Git · Docker · Claude Code<br/>**已合并 PR** 👇
 <img src="https://img.shields.io/badge/🛶_龙舟与皮划艇-0b1424?style=for-the-badge&labelColor=0b1424&color=0e7490" />
 <img src="https://img.shields.io/badge/📕_历史与人文-0b1424?style=for-the-badge&labelColor=0b1424&color=0e7490" />
 
-<sub>2025 年校篮球锦标赛季军 · 2025年校运会男子200m单人皮划艇第八名 · 2026年校运会200m龙舟团体第四名</sub>
 
 </div>
 
