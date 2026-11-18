@@ -6,11 +6,11 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1424,50:0e7490,100:5eead4&height=230&section=header&text=Zonghao%20Ye&fontSize=62&fontColor=ffffff&fontAlignY=36&desc=叶宗豪%20·%20Felix%20Ye&descSize=20&descAlignY=58&animation=fadeIn" width="100%" alt="banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1424,50:0e7490,100:5eead4&height=230&section=header&text=Zonghao%20Ye&fontSize=62&fontColor=ffffff&fontAlignY=36&desc=假装糕手%20·%20Felix%20Ye&descSize=20&descAlignY=58&animation=fadeIn" width="100%" alt="banner" />
 
 <p>
   <strong>Automation · AI · Edge</strong><br/>
-  <sub>从理解原理，到做出真正能运行的作品。</sub>
+  <sub>Everything is Feedback.</sub>
 </p>
 
 <p>
@@ -27,7 +27,7 @@
 ```console
 zonghao@hangzhou:~$ cat about.txt
 
-  name      →  叶宗豪 (Felix Ye)
+  name      →  糕手 (Felix Ye)
   role      →  B.S. Student in Automation @ 浙江科技大学
   lab       →  Intelligent Control & Big Data Lab
   from      →  云南昭通        base → 浙江杭州
@@ -36,7 +36,7 @@ zonghao@hangzhou:~$ cat about.txt
                国家级大创项目第二负责人
 
 zonghao@hangzhou:~$ echo $PRINCIPLE
-实事求是 · 抓住主要矛盾 · 由实践得出真理
+
 
 zonghao@hangzhou:~$ █
 ```
