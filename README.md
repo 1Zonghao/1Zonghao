@@ -150,9 +150,9 @@ Git · Docker · Claude Code<br/>**已合并 PR** 👇
 
 <div align="center">
 
-[![PR](https://img.shields.io/badge/MERGED-open--notebook%20%23619-5eead4?style=for-the-badge&labelColor=0b1424)]  (https://github.com/lfnovo/open-notebook/pull/619)[![Stargazers](https://img.shields.io/github/stars/lfnovo/open-notebook.svg?style=for-the-badge)](https://github.com/lfnovo/open-notebook)
+[![PR](https://img.shields.io/badge/MERGED-open--notebook%20%23619-5eead4?style=for-the-badge&labelColor=0b1424)](https://github.com/lfnovo/open-notebook/pull/619)[![Stargazers](https://img.shields.io/github/stars/lfnovo/open-notebook.svg?style=for-the-badge)](https://github.com/lfnovo/open-notebook)
 
-**CJK 文本排版修复** ⭐— 从使用开源工具，到提交第一份被合并的修复。
+**CJK 侧边栏文本交互修复** ⭐— 使用开源工具的第一份被合并的PR。
 
 </div>
 
