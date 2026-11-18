@@ -22,6 +22,31 @@
 
 </p>
 </div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/🏀_篮球-0b1424?style=for-the-badge&labelColor=0b1424&color=0e7490" />
+<img src="https://img.shields.io/badge/🏊_游泳-0b1424?style=for-the-badge&labelColor=0b1424&color=0e7490" />
+<img src="https://img.shields.io/badge/🛶_龙舟与皮划艇-0b1424?style=for-the-badge&labelColor=0b1424&color=0e7490" />
+<img src="https://img.shields.io/badge/📕_历史与人文-0b1424?style=for-the-badge&labelColor=0b1424&color=0e7490" />
+
+
+</div>
+
+<br/>
+
+## ◈ Open Channel
+
+<div align="center">
+
+[<img src="https://img.shields.io/badge/个人主页_LOG-0b1424?style=for-the-badge&logo=hugo&logoColor=5eead4&labelColor=0b1424&color=0e7490" />](https://1zonghao.github.io/personal-web/)
+[<img src="https://img.shields.io/badge/Kaggle-0b1424?style=for-the-badge&logo=kaggle&logoColor=5eead4&labelColor=0b1424&color=0e7490" />](https://www.kaggle.com/zonghaoye)
+[<img src="https://img.shields.io/badge/Email-0b1424?style=for-the-badge&logo=gmail&logoColor=5eead4&labelColor=0b1424&color=0e7490" />](mailto:zonghao286@gmail.com)
+
+<sub>`// 欢迎查看项目源码或交流学习经验。`</sub>
+</div>
 <br/>
 
 ## `~/whoami`
@@ -191,32 +216,6 @@ Git · Docker · Claude Code<br/>**已合并 PR** 👇
 [**→ 阅读全部工程笔记**](https://1zonghao.github.io/personal-web/articles.html)
 
 </div>
-
-<br/>
-
-## ◈ Beyond Code
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/🏀_篮球-0b1424?style=for-the-badge&labelColor=0b1424&color=0e7490" />
-<img src="https://img.shields.io/badge/🏊_游泳-0b1424?style=for-the-badge&labelColor=0b1424&color=0e7490" />
-<img src="https://img.shields.io/badge/🛶_龙舟与皮划艇-0b1424?style=for-the-badge&labelColor=0b1424&color=0e7490" />
-<img src="https://img.shields.io/badge/📕_历史与人文-0b1424?style=for-the-badge&labelColor=0b1424&color=0e7490" />
-
-
-</div>
-
-<br/>
-
-## ◈ Open Channel
-
-<div align="center">
-
-[<img src="https://img.shields.io/badge/个人主页_LOG-0b1424?style=for-the-badge&logo=hugo&logoColor=5eead4&labelColor=0b1424&color=0e7490" />](https://1zonghao.github.io/personal-web/)
-[<img src="https://img.shields.io/badge/Kaggle-0b1424?style=for-the-badge&logo=kaggle&logoColor=5eead4&labelColor=0b1424&color=0e7490" />](https://www.kaggle.com/zonghaoye)
-[<img src="https://img.shields.io/badge/Email-0b1424?style=for-the-badge&logo=gmail&logoColor=5eead4&labelColor=0b1424&color=0e7490" />](mailto:zonghao286@gmail.com)
-
-<sub>`// 欢迎查看项目源码或交流学习经验。`</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5eead4,50:0e7490,100:0b1424&height=110&section=footer" width="100%" alt="footer" />
 
