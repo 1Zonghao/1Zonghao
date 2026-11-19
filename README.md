@@ -199,23 +199,6 @@ Git · Docker · Claude Code<br/>**已合并 PR** 👇
 
 </div>
 
-<br/>
-
-## ◈ Field Notes
-
-```text
-2026.10  智能体开发  思源的工具调用与思维导图实现
-2026.10  工程笔记    数据分析智能体如何保留运行状态
-2026.07  嵌入式实践  波形显示与健康评估为什么分两路
-2026.07  研究笔记    模拟用户也会改变安全评测结果
-2025.08  控制系统    循迹与瞄准如何协同工作
-```
-
-<div align="center">
-
-[**→ 阅读全部工程笔记**](https://1zonghao.github.io/personal-web/articles.html)
-
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5eead4,50:0e7490,100:0b1424&height=110&section=footer" width="100%" alt="footer" />
 
