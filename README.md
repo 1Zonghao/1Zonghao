@@ -59,8 +59,7 @@ zonghao@hangzhou:~$ cat about.txt
   lab       →  Intelligent Control & Big Data Lab
   from      →  云南昭通        base → 浙江杭州
   focus     →  模式识别 · 智能控制 · AI 工程
-  research  →  浙江省“新苗人才计划”第一负责人
-               国家级大创项目第二负责人
+  research  →  浙江省新苗人才计划
 
 zonghao@hangzhou:~$ echo $PRINCIPLE
 
